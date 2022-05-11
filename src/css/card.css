@@ -1,0 +1,15 @@
+.image{
+    height: 200px;
+    width: 200px;
+    object-fit: contain;
+    border: 2px;
+    border-radius: 2px;
+    
+
+}
+
+.card{
+    border: 2px;
+    border-radius: 2px;
+    
+}

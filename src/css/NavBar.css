@@ -1,0 +1,41 @@
+.nav {
+  height: 10vh;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  background: rgb(10, 0, 16);
+}
+
+.nav-items {
+  display: flex;
+  list-style: none;
+  text-align: center;
+  width: 70vw;
+  justify-content: space-evenly;
+  margin-right: 2rem;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  height: 10vh;
+  
+}
+
+.nav-item a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.1rem;
+  margin-right: 2rem;
+  padding: 6px 16px;
+  border-radius: 5px;
+}
+
+.nav-item a:hover {
+  background: rgb(0, 212, 212);
+  cursor: pointer;
+}
+/* .banner > h3{
+  justify-content: center;
+  text-align: center;
+} */
